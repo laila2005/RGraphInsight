@@ -39,7 +39,7 @@ You will then see a frequency table and a prompt to select your preferred visual
 ![histogram example](https://github.com/laila2005/RGraphInsight/blob/main/Screenshot_12.png?raw=true)
 
 Or choosing ``2`` will generate a frequency polygon:
-
+![frequency polygon example](https://github.com/laila2005/RGraphInsight/blob/main/Screenshot_13.png?raw=true)
 
 Code Overview
 Input Data: The script prompts users to input a list of numbers and a value for ``k``.
