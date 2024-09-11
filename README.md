@@ -31,7 +31,7 @@ Rscript RGraphInsight.R
 ### Example
 ```ruby
 Enter a set of numbers (separated by spaces): 
-1 2 2 3 4 5 6 7 8 9
+12 5 15 5 7 6 2 1 9 6 2 13 15 3 7 18 14 1 17 4 
 Please enter the value of k: 
 5
 ```
@@ -41,10 +41,10 @@ You will then see a frequency table and a prompt to select your preferred visual
 Or choosing ``2`` will generate a frequency polygon:
 ![frequency polygon example](https://github.com/laila2005/RGraphInsight/blob/main/Screenshot_13.png?raw=true)
 
-Code Overview
-Input Data: The script prompts users to input a list of numbers and a value for ``k``.
-Calculate Metrics: Computes range, width, and creates a frequency table.
-Generate Visualizations: Uses ``ggplot2`` to create and display histograms or frequency polygons based on user choice.
+## Code Overview
+- Input Data: The script prompts users to input a list of numbers and a value for ``k``.
+- Calculate Metrics: Computes range, width, and creates a frequency table.
+- Generate Visualizations: Uses ``ggplot2`` to create and display histograms or frequency polygons based on user choice.
 
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve functionality, fix bugs, or enhance documentation.
