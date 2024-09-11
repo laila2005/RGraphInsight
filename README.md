@@ -36,7 +36,7 @@ Please enter the value of k:
 5
 ```
 You will then see a frequency table and a prompt to select your preferred visualization type. For example, choosing ``1`` will generate a histogram:
-
+[histogram example](https://github.com/laila2005/RGraphInsight/blob/main/Screenshot_12.png?raw=true)
 
 Or choosing ``2`` will generate a frequency polygon:
 
